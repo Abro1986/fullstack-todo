@@ -1,0 +1,27 @@
+body {
+	background: #85673C
+}
+h1 {
+	text-align: center;
+}
+
+div {
+	text-align: center;
+}
+
+li{
+	text-align: center;
+	list-style-position: inside;
+}
+
+#pic {
+	text-align: center;
+}
+
+img {
+	width: 300px;
+	height: auto;
+	display: block;
+	margin-left: 40%;
+	margin-right: 40%;
+}
